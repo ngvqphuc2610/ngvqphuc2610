@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **web and mobile development**
+- 🔭 I'm currently working on **web**
 - 🌱 I'm learning **advanced frontend frameworks and cloud technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **React, JavaScript, TypeScript, and web development**
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://facebook.com/ngvqphuc2610" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?](https://www.facebook.com/phuc.nguyenvqstyle=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="mailto:ngvqphuc2610@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
