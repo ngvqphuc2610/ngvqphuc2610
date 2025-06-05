@@ -49,12 +49,10 @@
 ## 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ngvqphuc/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngvqphuc2610&repo=project1&theme=tokyonight" alt="Project 1"/>
+  <a href="https://github.com/ngvqphuc/doancoso">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngvqphuc2610&repo=project1&theme=tokyonight" alt="doancoso"/>
   </a>
-  <a href="https://github.com/ngvqphuc/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngvqphuc2610&repo=project2&theme=tokyonight" alt="Project 2"/>
-  </a>
+  
 </div>
 
 ## 🏆 GitHub Trophies
@@ -65,9 +63,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ngvqphuc2610" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
   <a href="https://twitter.com/ngvqphuc2610" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
