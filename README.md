@@ -1,12 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=%20Phuc%20Nguyen&fontSize=65&fontAlignY=35&desc=Information%20Technology%20Student%20%7C%20Web%20Development%20Learner&descAlignY=60&descSize=20&fontColor=ffffff" width="100%" alt="Banner" />
-</div>
-
-## 👨‍💻 About Me
-
 Hi, I'm **Phuc Nguyen** from **Vietnam 🇻🇳**.
-
-I am a final-year **Information Technology student at HUTECH** with interest in **web and mobile development**.
 I enjoy learning modern technologies and building applications to improve my practical development skills.
 
 * 🔭 Working on: **Software Developer (Web & Mobile)**
