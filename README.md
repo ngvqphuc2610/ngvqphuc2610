@@ -6,11 +6,11 @@
 
 Hi, I'm **Phuc Nguyen** from **Vietnam 🇻🇳**.
 
-I am a final-year **Information Technology student at HUTECH** with interest in **web development**.
-I enjoy learning modern JavaScript technologies and building web applications to improve my practical development skills.
+I am a final-year **Information Technology student at HUTECH** with interest in **web and mobile development**.
+I enjoy learning modern technologies and building applications to improve my practical development skills.
 
 * 🔭 Working on: **Software Developer (Web & Mobile)**
-* 🌱 Currently learning: **Next.js, NestJS, and TypeScript**
+* 🌱 Currently learning: **Next.js, NestJS, Flutter, and TypeScript**
 * 💬 Interested in: **Web Development and System Design**
 * 📫 Contact: **[alexnguyenplus2610@gmail.com](mailto:alexnguyenplus2610@gmail.com)**
 
@@ -37,6 +37,15 @@ I enjoy learning modern JavaScript technologies and building web applications to
 <img src="https://img.shields.io/badge/NestJS-18181b?style=flat-square&logo=nestjs&logoColor=E0234E"/>
 <img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=node.js&logoColor=339933"/>
 <img src="https://img.shields.io/badge/Prisma-18181b?style=flat-square&logo=prisma&logoColor=white"/>
+
+</div>
+
+### Mobile
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Flutter-18181b?style=flat-square&logo=flutter&logoColor=02569B"/>
+<img src="https://img.shields.io/badge/Dart-18181b?style=flat-square&logo=dart&logoColor=0175C2"/>
 
 </div>
 
