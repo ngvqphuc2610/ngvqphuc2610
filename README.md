@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Quang%20Phuc%20Nguyen&fontSize=65&fontAlignY=35&desc=Information%20Technology%20Student%20%7C%20Web%20Development%20Learner&descAlignY=60&descSize=20&fontColor=ffffff" width="100%" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=%20Phuc%20Nguyen&fontSize=65&fontAlignY=35&desc=Information%20Technology%20Student%20%7C%20Web%20Development%20Learner&descAlignY=60&descSize=20&fontColor=ffffff" width="100%" alt="Banner" />
 </div>
 
 ## 👨‍💻 About Me
