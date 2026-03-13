@@ -1,62 +1,59 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Phuc%20Nguyen&fontSize=70&fontAlignY=35&desc=Web%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=20&fontColor=ffffff" width="100%" alt="Phuc Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Quang%20Phuc%20Nguyen&fontSize=65&fontAlignY=35&desc=Information%20Technology%20Student%20%7C%20Web%20Development%20Learner&descAlignY=60&descSize=20&fontColor=ffffff" width="100%" alt="Banner" />
 </div>
 
-<table>
-  <tr>
-    <td width="60%" valign="top" style="border: none;">
-      
-      ### 👨‍💻 About Me
-      
-      Hi, I'm **Phuc** based in **Vietnam** 🇻🇳. 
-      <br>
-      I am a passionate Developer specialized in the **JavaScript Ecosystem**. I love solving algorithmic problems and building scalable web applications.
-      
-      - 🔭 **Working on:** Modern Web Architectures.
-      - 🌱 **Deep diving:** Cloud Technologies & Advanced Frontend patterns.
-      - 💬 **Ask me about:** React, TypeScript, and System Design.
-      - 📫 **Contact:** [ngvqphuc2610@gmail.com](mailto:ngvqphuc2610@gmail.com)
+## 👨‍💻 About Me
 
-      <br/>
-      
-      <div>
-        <a href="https://facebook.com/phuc.nguyenvq"><img src="https://img.shields.io/badge/Facebook-18181b?style=flat-square&logo=facebook&logoColor=white" height="25"/></a>
-        <a href="https://twitter.com/ngvqphuc2610"><img src="https://img.shields.io/badge/Twitter-18181b?style=flat-square&logo=twitter&logoColor=white" height="25"/></a>
-        <a href="mailto:ngvqphuc2610@gmail.com"><img src="https://img.shields.io/badge/Email-18181b?style=flat-square&logo=gmail&logoColor=white" height="25"/></a>
-      </div>
+Hi, I'm **Quang Phuc Nguyen** from **Vietnam 🇻🇳**.
 
-    </td>
+I am a final-year **Information Technology student at HUTECH** with interest in **web development**.
+I enjoy learning modern JavaScript technologies and building web applications to improve my practical development skills.
 
-    <td width="40%" valign="top" style="border: none;">
-      
-      ### 🛠 Tech Stack
-      **Core & Frontend**
-      <br>
-      <img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-      <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=3178C6"/>
-      <img src="https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-18181b?style=flat-square&logo=tailwind-css&logoColor=38B2AC"/>
+* 🔭 Working on: **Software Developer (Web & Mobile)**
+* 🌱 Currently learning: **Next.js, NestJS, and TypeScript**
+* 💬 Interested in: **Web Development and System Design**
+* 📫 Contact: **[alexnguyenplus@gmail.com]**
 
-      **Backend & Database**
-      <br>
-      <img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-      <img src="https://img.shields.io/badge/Express-18181b?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C%23-18181b?style=flat-square&logo=c-sharp&logoColor=239120"/>
-      <img src="https://img.shields.io/badge/MySQL-18181b?style=flat-square&logo=mysql&logoColor=4479A1"/>
-      <img src="https://img.shields.io/badge/SQL_Server-18181b?style=flat-square&logo=microsoft-sql-server&logoColor=CC2927"/>
+---
 
-    </td>
-  </tr>
-</table>
+## 🛠 Tech Stack
 
-<br>
+### Frontend
+
+<img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-18181b?style=flat-square&logo=tailwind-css&logoColor=38B2AC"/>
+
+### Backend
+
+<img src="https://img.shields.io/badge/NestJS-18181b?style=flat-square&logo=nestjs&logoColor=E0234E"/>
+<img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Prisma-18181b?style=flat-square&logo=prisma&logoColor=white"/>
+
+### Database
+
+<img src="https://img.shields.io/badge/MySQL-18181b?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/SQL%20Server-18181b?style=flat-square&logo=microsoft-sql-server&logoColor=CC2927"/>
+
+### Tools
+
+<img src="https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Postman-18181b?style=flat-square&logo=postman&logoColor=FF6C37"/>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngvqphuc2610&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=ccc&icon_color=79ff97" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngvqphuc2610&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=ccc" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ngvqphuc2610&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=79ff97" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngvqphuc2610&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc" height="150"/>
 </div>
 
+---
+
 <div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ngvqphuc2610&label=PROFILE+VIEWS&color=18181b&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ngvqphuc2610&label=PROFILE+VIEWS&color=18181b&style=flat-square"/>
 </div>
