@@ -1,79 +1,30 @@
-Hi, I'm **Phuc Nguyen** from **Vietnam 🇻🇳**.
-I enjoy learning modern technologies and building applications to improve my practical development skills.
+# Hi, I'm Phuc Nguyen (Alex) 🇻🇳
 
-* 🔭 Working on: **Software Developer (Web & Mobile)**
-* 🌱 Currently learning: **Next.js, NestJS, Flutter, and TypeScript**
-* 💬 Interested in: **Web Development and System Design**
-* 📫 Contact: **[alexnguyenplus2610@gmail.com](mailto:alexnguyenplus2610@gmail.com)**
+I am a **Full-stack Developer** (Intern/Fresher) focused on building high-quality Web and Mobile applications. I value clean code, system efficiency, and continuous learning.
 
----
+### 🛠 Technical Skills
 
-## 🛠 Tech Stack
-
-### Frontend
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-18181b?style=flat-square&logo=tailwind-css&logoColor=38B2AC"/>
-
-</div>
-
-### Backend
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/NestJS-18181b?style=flat-square&logo=nestjs&logoColor=E0234E"/>
-<img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Prisma-18181b?style=flat-square&logo=prisma&logoColor=white"/>
-
-</div>
-
-### Mobile
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Flutter-18181b?style=flat-square&logo=flutter&logoColor=02569B"/>
-<img src="https://img.shields.io/badge/Dart-18181b?style=flat-square&logo=dart&logoColor=0175C2"/>
-
-</div>
-
-### Database
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MySQL-18181b?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/SQL%20Server-18181b?style=flat-square&logo=microsoft-sql-server&logoColor=CC2927"/>
-
-</div>
-
-### Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Postman-18181b?style=flat-square&logo=postman&logoColor=FF6C37"/>
-
-</div>
+- **Frontend:** React, Next.js, TypeScript, Zustand, TailwindCSS.
+- **Mobile:** Flutter, Dart.
+- **Backend:** Node.js (NestJS), Java (Spring Boot).
+- **Database:** MySQL, MSSQL, Redis.
+- **Tools:** Docker, Git, Postman, BullMQ.
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ngvqphuc2610&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=79ff97" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngvqphuc2610&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc" height="160"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ngvqphuc2610&show_icons=true&theme=vivid_gradient&hide_border=true" alt="Phuc's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngvqphuc2610&layout=compact&theme=vivid_gradient&hide_border=true" alt="Top Languages" height="150" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ngvqphuc2610&label=PROFILE+VIEWS&color=18181b&style=flat-square"/>
-</div>
+### 📫 Contact Me
+- **Email:** [alexnguyenplus2610@gmail.com](mailto:alexnguyenplus2610@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ngvqphuc2610](https://linkedin.com/in/ngvqphuc2610)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ngvqphuc2610&label=PROFILE+VIEWS&color=grey&style=flat-square" />
+</p>
