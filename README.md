@@ -9,14 +9,14 @@ I am a **Full-stack Developer** (Intern/Fresher) focused on building high-qualit
 **Frontend & Mobile**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,zustand,tailwind,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,flutter,dart" />
   </a>
 </p>
 
 **Backend & Database**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,mysql,mssql,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,mysql,redis" />
   </a>
 </p>
 
