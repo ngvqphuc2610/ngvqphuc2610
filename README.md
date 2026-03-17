@@ -9,7 +9,7 @@ I am a **Full-stack Developer** (Intern/Fresher) focused on building high-qualit
 **Frontend & Mobile**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,css,sass,flutter,dart" />
   </a>
 </p>
 
