@@ -1,6 +1,6 @@
 # Hi, I'm Phuc Nguyen (Alex) 🇻🇳
 
-I am a **Full-stack Developer** (Intern/Fresher) focused on building high-quality Web and Mobile applications. I value clean code, system efficiency, and continuous learning.
+I am a **Full-stack Developer**  focused on building high-quality Web and Mobile applications. I value clean code, system efficiency, and continuous learning.
 
 ---
 
